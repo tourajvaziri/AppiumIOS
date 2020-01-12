@@ -7,3 +7,6 @@ Instructions:
 3. Install Appium on your Mac.   i.e. npm install -g appium
 4. Open Terminal, run: appium     (This starts the Appium Rest listener)
 5. Finally, on terminal, navgiate to Tests folder and run:  pytest testLogin.py
+
+Reference:
+https://www.appcoda.com/automated-ui-testing-appium/
